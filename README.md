@@ -116,9 +116,8 @@ recommended_players = recommended_players.sort_values(by='Overall', ascending=Fa
 print(f"\n🔍 اقتراحات للاعبين في مركز {weak_position} لتحسين أداء نادي {target_club}:\n")
 print(recommended_players[['Name', 'Age', 'Nationality', 'Overall', 'Potential', 'Club']].head(10))
 
-![image](https://github.com/user-attachments/assets/77083478-0645-4e0f-821a-b92580f3974f)
 ```
-
+![image](https://github.com/user-attachments/assets/77083478-0645-4e0f-821a-b92580f3974f)
 # 4. اقتراح لاعبين لأكثر من مركز ضعيف في نادي معين
 ```python
 # تحديد اسم النادي
