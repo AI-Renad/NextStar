@@ -199,6 +199,26 @@ plt.show()
 ```
 ![image](https://github.com/user-attachments/assets/dfafe2dc-6caa-4160-b594-ff41311736c7)
 
+ 
+### تسجيل الدخول
+![Screenshot 2025-04-25 at 11 19 38 AM](https://github.com/user-attachments/assets/3f181987-19d8-43e8-b2b8-bed98a51cd76)
+ ### تحليل اللاعب من الفديو
+<img width="1468" alt="Screenshot 2025-04-25 at 11 20 59 AM" src="https://github.com/user-attachments/assets/a814a942-b491-4162-ae57-15305d17bee1" />
+
+
+<img width="1470" alt="Screenshot 2025-04-25 at 11 24 38 AM" src="https://github.com/user-attachments/assets/5b96da6c-3370-4303-96b8-125ea857d23b" />
+
+<img width="1470" alt="Screenshot 2025-04-25 at 11 25 28 AM" src="https://github.com/user-attachments/assets/78b80c53-c221-414f-bd2f-878fd938e4f6" />
+
+
+### استكشاف اللاعبين
+<img width="1470" alt="Screenshot 2025-04-25 at 11 26 22 AM" src="https://github.com/user-attachments/assets/00accaf2-f7c0-47ac-8c55-7a2cf5a7c686" />
+
+### لوحة التحكم
+
+<img width="1470" alt="Screenshot 2025-04-25 at 11 26 48 AM" src="https://github.com/user-attachments/assets/a4ea811b-3cc9-4872-ba7d-30f2a84c5952" />
+<img width="1470" alt="Screenshot 2025-04-25 at 11 27 00 AM" src="https://github.com/user-attachments/assets/06a13599-3a41-4a0c-9750-96c2dfcc8fe6" />
+<img width="1470" alt="Screenshot 2025-04-25 at 11 27 07 AM" src="https://github.com/user-attachments/assets/90374c6d-b5aa-4962-8b9c-0db94469f95b" />
 
 ------------------------------------------------------------------
 الخاتمة
